@@ -1,0 +1,5 @@
+selenium~=3.141.0
+virtualenv
+behave~=1.2.6
+webdriver_manager
+bdd
