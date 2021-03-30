@@ -12,7 +12,7 @@ Feature: Create User
     Then wait until user form page loads
     When fill user fields in form
     Then click in next button
-    # Then  address page loads succesfully
+    Then click in next button in address page
 
 
 

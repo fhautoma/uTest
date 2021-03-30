@@ -1,6 +1,7 @@
 from behave import Given, When, Then
 from bdd.pages.home_page.home_page import HomePage
 from bdd.pages.user_form_page.user_form_page import UserFormPage
+from bdd.pages.address_page.address_page import AddressPage
 import time
 
 
@@ -28,6 +29,12 @@ def step_def(context):
 
 @Then('click in next button')
 def step_def(context):
+    context.current_page.click_in_next_button()
+
+
+@Then('click in next button in address page')
+def step_def(context):
+    context.current_page = AddressPage(context)
     context.current_page.click_in_next_button()
 
 

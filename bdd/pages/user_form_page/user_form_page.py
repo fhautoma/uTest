@@ -1,5 +1,4 @@
 from selenium.webdriver.support.select import Select
-
 from bdd.pages.base_page import BasePage
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as ec
@@ -8,8 +7,6 @@ from bdd.config.global_configuration import MOCKAROO_URL, MOCKAROO_API_PATH, MOC
 from bdd.helpers.mappers import month_mapper
 import requests
 import json
-import time
-from bdd.helpers.mockaroo_api_call import get_user_form_data_from_api
 
 
 class UserFormPage(BasePage):
