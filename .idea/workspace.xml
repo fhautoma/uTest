@@ -77,25 +77,63 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617083001365" />
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom" timestamp="1617085365694">
+    <state width="1237" height="182" key="GridCell.Tab.0.bottom" timestamp="1617091499314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617085365694" />
-    <state width="1237" height="99" key="GridCell.Tab.0.center" timestamp="1617085365693">
+    <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617091499314" />
+    <state width="1237" height="182" key="GridCell.Tab.0.center" timestamp="1617091499314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617085365693" />
-    <state width="1237" height="99" key="GridCell.Tab.0.left" timestamp="1617085365693">
+    <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617091499314" />
+    <state width="1237" height="182" key="GridCell.Tab.0.left" timestamp="1617091499314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617085365693" />
-    <state width="1237" height="99" key="GridCell.Tab.0.right" timestamp="1617085365693">
+    <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617091499314" />
+    <state width="1237" height="182" key="GridCell.Tab.0.right" timestamp="1617091499314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617085365693" />
+    <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617091499314" />
+    <state width="1237" height="182" key="GridCell.Tab.1.bottom" timestamp="1617091499317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617091499317" />
+    <state width="1237" height="182" key="GridCell.Tab.1.center" timestamp="1617091499315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1617091499315" />
+    <state width="1237" height="182" key="GridCell.Tab.1.left" timestamp="1617091499315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1617091499315" />
+    <state width="1237" height="182" key="GridCell.Tab.1.right" timestamp="1617091499316">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617091499316" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1617083030930">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1617083030930" />
+    <state x="326" y="56" width="629" height="568" key="find.popup" timestamp="1617091274525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="56" width="629" height="568" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1617091274525" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bdd/pages/user_form_page/user_form_page.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value(mont_birth)" language="Python" />
+        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value('number:1')" language="Python" />
+        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value('number:6')" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
