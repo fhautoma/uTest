@@ -14,19 +14,131 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>click in next button in address page</find>
+      <find>month_mapper</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bdd/pages/address_page/address_page.py" />
+        <option value="$PROJECT_DIR$/bdd/features/steps/utest_pages_steps.py" />
+        <option value="$PROJECT_DIR$/bdd/pages/user_form_page/user_form_page.py" />
+        <option value="$PROJECT_DIR$/testti.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectId" id="1qSpDd0iqbqPRT5OGaF8APpIrxP" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uTest" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.runner">
+    <configuration name="automation_practice_form" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weeloDemoQA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bdd/pages/student_form_page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bdd/pages/student_form_page/automation_practice_form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="global_configuration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weeloDemoQA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bdd/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bdd/config/global_configuration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="uTest" />
+      <module name="weeloDemoQA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -46,12 +158,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testti" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weeloDemoQA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testti.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.runner" />
+        <item itemvalue="Python.automation_practice_form" />
+        <item itemvalue="Python.global_configuration" />
+        <item itemvalue="Python.testti" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,75 +202,130 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="4" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="5" />
+      <window_info anchor="right" id="CodeTogether" order="6" />
+      <window_info anchor="right" id="Alibaba Log Console" order="7" />
+    </layout>
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="354" y="131" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617083237690">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="354" y="131" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1617083237690" />
-    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1617083001365">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617083001365" />
-    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1617092021817">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617092021817" />
-    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1617092021816">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617092021816" />
-    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1617092021816">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617092021816" />
-    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1617092021817">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617092021817" />
-    <state width="1237" height="182" key="GridCell.Tab.1.bottom" timestamp="1617091499317">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="182" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617091499317" />
-    <state width="1237" height="182" key="GridCell.Tab.1.center" timestamp="1617091499315">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="182" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1617091499315" />
-    <state width="1237" height="182" key="GridCell.Tab.1.left" timestamp="1617091499315">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="182" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1617091499315" />
-    <state width="1237" height="182" key="GridCell.Tab.1.right" timestamp="1617091499316">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="182" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617091499316" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1617083030930">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1617083030930" />
-    <state x="326" y="56" width="629" height="568" key="find.popup" timestamp="1617091274525">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="326" y="56" width="629" height="568" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1617091274525" />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bdd/pages/user_form_page/user_form_page.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value(mont_birth)" language="Python" />
-        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value('number:1')" language="Python" />
-        <watch expression="Select(self.context.browser.find_element_by_id(self.BIRTH_MONTH_FIELD)).select_by_value('number:6')" language="Python" />
+        <watch expression="hobby_check_box_element.send_keys(Keys.RETURN)" language="Python" />
+        <watch expression="hobby_check_box_element.submit()" language="Python" />
+        <watch expression="hobby_check_box_element.click()" language="Python" />
+        <watch expression="hobby_check_box_element" language="Python" />
+        <watch expression="hobby_check_box_element = self.context.browser.find_element_by_id(f'hobbies-checkbox-1')" language="Python" />
+        <watch expression="hobby_check_box_element" language="Python" />
+        <watch expression="hobby_check_box_element.click()" language="Python" />
+        <watch expression="hobby_check_box_element" language="Python" />
+        <watch expression="hobby_check_box_element" language="Python" />
+        <watch expression="hobby_check_box_element.click()" language="Python" />
+        <watch expression="hobby_check_box_element.click()" language="Python" />
+        <watch expression="subjects_element.click" language="Python" />
+        <watch expression="subjects_element.click()" language="Python" />
+        <watch expression="hobby_check_box_element.click()" language="Python" />
+        <watch expression="check_box_hobby[i].text" language="Python" />
+        <watch expression="check_box_hobby[i]" language="Python" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/launcher/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/features/steps/utest_pages_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/pages/user_form_page/user_form_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/fixtures/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/config/global_configuration.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/pages/address_page/address_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd/helpers/mappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

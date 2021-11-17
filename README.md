@@ -1,4 +1,4 @@
-# uTest
+# weeloDemoQA
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,7 +7,7 @@
 * [Run](#run)
 
 ## General info
-Test For User Registration.
+Test For Student Registration.
 	
 ## Technologies
 Project is created with:
@@ -21,8 +21,8 @@ To setup this project, create virtualenv and install requirements.txt using pip:
 ```
 Windows: Command Prompt or PowerShell
 > pip install viertualenv
-> python -m venv <root path>/uTest/env 
-> cd <root path>\uTest
+> python -m venv <root path>/weeloDemoQA/env 
+> cd <root path>\weeloDemoQA
 > .\env\Scripts\activate
 > python -m pip install -r requirements.txt
 
@@ -43,6 +43,6 @@ python .\launcher\runner.py
 
 IDE:
 Navigate until the runner.py file and run it: 
-uTest > 
+weeloDemoQA > 
                       Launcher >
                            runner.py
